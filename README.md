@@ -1,5 +1,5 @@
 # Kendini-Test-Et
-Bu oyunu lisedeyken yaptım ve o zaman yayınlandım.
+Bu oyunu lisedeyken yaptım ve o zaman yayınladım.
 Bu linkten oyunun yayınlanmış haline erişebilirsiniz:
 https://play.google.com/store/apps/details?id=com.THEKILIANREX.KendiniTestEt
 İstediğiniz gibi geliştirebilirsiniz
